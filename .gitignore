@@ -1,0 +1,5 @@
+demo/.venv/
+demo/weights/
+demo/__pycache__/
+demo/*.bin
+demo/*.txt
